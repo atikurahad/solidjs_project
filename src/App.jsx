@@ -1,11 +1,12 @@
-
-import Comp from './Comp';
+import Comp from "./Comp";
+import Navbar from "./Navbar";
 
 const App = () => {
   return (
     <>
-      <h1>Hello world!!!!</h1>
-      <Comp />
+      <Navbar />
+
+   
     </>
   );
 };

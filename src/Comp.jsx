@@ -1,3 +1,7 @@
 export default () => {
-  return <h2>Child component</h2>;
+  return (
+    <section class="mb-16">
+      <h1>Hi</h1>
+    </section>
+  );
 };
